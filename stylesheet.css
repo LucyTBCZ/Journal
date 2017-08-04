@@ -1,0 +1,77 @@
+*	{
+	background-color:black;
+	color:white;
+	font-family:Cursive;
+}
+
+#tete	{
+	margin:auto;
+	text-align:center;
+	font-size:2em;
+	padding:20px 20px 20px 20px;
+	border:2px solid green;
+	border-radius:10px;
+}
+
+div	{
+	position:absolute;
+	border:1px solid green;
+}
+
+.grosTitre	{
+	padding:20px 45px 125px 50px;
+	margin-top:50px;
+	margin-right:50px;
+	margin-bottom:90px;
+	margin-left:50px;
+	font-size:1.5em;
+}
+
+.enTete	{
+	text-align:center;
+	padding:20px 25px 20px 25px;
+	margin-top:50px;
+	margin-right:50px;
+	margin-bottom:160px;
+	margin-left:350px;
+}
+
+.content h4	{
+	text-align:center;
+
+}
+.content p	{
+	text-align:left;
+}
+
+.one	{
+	padding:5px 5px 5px 5px;
+	margin-top:295px;
+	margin-right:50px;
+	margin-bottom:600px;
+	margin-left:350px;
+}
+
+.two	{
+	padding:5px 5px 5px 5px;
+	margin-top:510px;
+	margin-right:50px;
+	margin-bottom:105px;
+	margin-left:50px;
+}
+
+.three	{
+	padding:5px 5px 5px 5px;
+	margin-top:705px;
+	margin-right:50px;
+	margin-bottom:105px;
+	margin-left:50px;
+}
+
+.four	{
+	padding:5px 5px 5px 5px;
+	margin-top:900px;
+	margin-right:50px;
+	margin-bottom:105px;
+	margin-left:50px;
+}
